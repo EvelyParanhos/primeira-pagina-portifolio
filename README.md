@@ -2,9 +2,6 @@
 
 Este repositório é apenas uma simulação de um portfólio pessoal, desenvolvido para apresentar minhas habilidades como desenvolvedora Front-end. O projeto foi criado utilizando HTML e CSS, com foco em responsividade e design moderno.
 
-## 🚀 Visualização
-
-Você pode acessar o projeto online [aqui](#) (insira o link do deploy, se disponível).
 
 ## 🛠️ Tecnologias Utilizadas
 

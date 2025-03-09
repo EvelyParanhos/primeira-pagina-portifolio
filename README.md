@@ -18,9 +18,9 @@ Este repositório é apenas uma simulação de um portfólio pessoal, desenvolvi
 ## 🎨 Design
 
 - **Cores**:
-  - Fundo: Preto (`#000000`).
-  - Texto: Branco (`#F6F6F6`).
-  - Destaque: Azul (`#22D4FD`).
+  - Fundo: Rosa (`#D70654`).
+  - Texto: Branco (`#FFEFC8`).
+  - Destaque: Amarelo (`#FFD95F`).
 - **Fontes**:
   - Títulos: `Krona One`.
   - Texto: `Montserrat`.
